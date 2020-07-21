@@ -1,0 +1,2 @@
+D:\Studies\C++\ProgramC\Data Algo Specialization\Course1\Week1\Debug\Week1.exe
+D:\Studies\C++\ProgramC\Data Algo Specialization\Course1\Week1\Debug\Week1.pdb
