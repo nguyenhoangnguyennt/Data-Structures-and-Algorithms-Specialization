@@ -1,5 +1,0 @@
-﻿  max_pairwise_product.cpp
-D:\Studies\C++\ProgramC\Data Algo Specialization\Course1\Week1\max_pairwise_product.cpp(16,27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
-D:\Studies\C++\ProgramC\Data Algo Specialization\Course1\Week1\max_pairwise_product.cpp(25,19): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
-D:\Studies\C++\ProgramC\Data Algo Specialization\Course1\Week1\max_pairwise_product.cpp(25,32): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
-  Week1.vcxproj -> D:\Studies\C++\ProgramC\Data Algo Specialization\Course1\Week1\Debug\Week1.exe
